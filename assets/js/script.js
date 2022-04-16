@@ -1,1 +1,4 @@
-var time = moment(testDate).format('MM/DD/YYY')
+$("#currentDay").html(moment().format("MMMM Do, YYYY"));
+
+
+
